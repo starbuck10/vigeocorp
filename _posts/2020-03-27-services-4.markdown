@@ -1,6 +1,6 @@
 ---
 layout: default
-img: climb.jpg
+img: cow.jpg
 category: Services
 title: Vigeo<br>Ranch
 description: |

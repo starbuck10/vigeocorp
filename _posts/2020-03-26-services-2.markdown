@@ -1,6 +1,6 @@
 ---
 layout: default
-img: computer.jpg
+img: consult.jpg
 category: Services
 title: Vigeo<br>Consulting
 description: |

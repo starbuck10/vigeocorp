@@ -1,6 +1,6 @@
 ---
 layout: default
-img: graph.jpg
+img: construction.jpg
 category: Services
 title: Vigeo Construction<br>& Consulting
 description: |
