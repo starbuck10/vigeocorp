@@ -2,8 +2,10 @@
 layout: default
 img: climb.jpg
 category: Services
-title: Growth<br>& Strategy
+title: Vigeo<br>Custom
 description: |
+categories: [x, y]
+tags: [x, y]
 published: true
 ---
-Our strategy practice provides you the think-tank brainpower you need to navigate your business's most difficult problems. We work with our clients to create inclusive, well-rounded problem-solving teams that integrate with your business and specialize in practical solutions.
+Vigeo Custom.

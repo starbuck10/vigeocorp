@@ -2,8 +2,10 @@
 layout: default
 img: computer.jpg
 category: Services
-title: Technical Consulting<br>& Implementation
+title: Vigeo<br>Consulting
 description: |
+categories: [x, y]
+tags: [x, y]
 published: true
 ---
-  Our technology practice is focused on a single goal; leverage technology to allow your business to focus on what it does best - taking care of your own clients and customers.  Here at Vigeo, we provide solutions tailored to your budget, to your timeline, and to your goals.
+  Vigeo Consulting.

@@ -1,11 +1,11 @@
 ---
 layout: default
-img: graph.jpg
+img: climb.jpg
 category: Services
-title: Vigeo Construction<br>& Consulting
+title: Vigeo<br>Ranch
 description: |
 categories: [x, y]
 tags: [x, y]
 published: true
 ---
-  Vigeo Construction and Consulting...
+Vigeo Ranch.
