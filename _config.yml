@@ -2,15 +2,14 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://vigeoconsult.com
-title: Vigeo Consulting
+url: http://vigeocorp.com
+title: Vigeo Corporation
 email: sales@vigeoconstruction.com
 author: Joshua Coffie
 description:
-  Vigeo Consulting is a niche, boutique management consulting firm located in Denver, CO
-  that specializes in management and technology advisory.
-copyright: 'Copyright &copy; 2020 Vigeo Consulting. All Rights Reserved.'
-credits: 'Vigeo Consulting is a subsidiary of <a href="http://vigeocorp.com">Vigeo Corp</a>, 2020.'
+  Vigeo Corporation is the parent and holdings company for the Vigeo enterprise.
+copyright: 'Copyright &copy; 2020 Vigeo Corporation. All Rights Reserved.'
+credits:
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -33,4 +32,4 @@ social:
     url:
 
 # Google Analytics
-google_analytics: UA-162037974-1
+google_analytics: UA-162053862-1
